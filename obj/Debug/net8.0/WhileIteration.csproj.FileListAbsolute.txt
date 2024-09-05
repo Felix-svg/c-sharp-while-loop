@@ -1,0 +1,14 @@
+D:\Development\WhileIteration\bin\Debug\net8.0\WhileIteration.exe
+D:\Development\WhileIteration\bin\Debug\net8.0\WhileIteration.deps.json
+D:\Development\WhileIteration\bin\Debug\net8.0\WhileIteration.runtimeconfig.json
+D:\Development\WhileIteration\bin\Debug\net8.0\WhileIteration.dll
+D:\Development\WhileIteration\bin\Debug\net8.0\WhileIteration.pdb
+D:\Development\WhileIteration\obj\Debug\net8.0\WhileIteration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\WhileIteration\obj\Debug\net8.0\WhileIteration.AssemblyInfoInputs.cache
+D:\Development\WhileIteration\obj\Debug\net8.0\WhileIteration.AssemblyInfo.cs
+D:\Development\WhileIteration\obj\Debug\net8.0\WhileIteration.csproj.CoreCompileInputs.cache
+D:\Development\WhileIteration\obj\Debug\net8.0\WhileIteration.dll
+D:\Development\WhileIteration\obj\Debug\net8.0\refint\WhileIteration.dll
+D:\Development\WhileIteration\obj\Debug\net8.0\WhileIteration.pdb
+D:\Development\WhileIteration\obj\Debug\net8.0\WhileIteration.genruntimeconfig.cache
+D:\Development\WhileIteration\obj\Debug\net8.0\ref\WhileIteration.dll
